@@ -1,0 +1,19 @@
+---
+web_sites:
+  - url: https://www.vice.com/en_us
+    inLanguage: en_us
+  - url: https://news.vice.com/en_us
+    inLanguage: en_us
+  - url: https://broadly.vice.com/en_us
+    inLanguage: en_us
+  - url: https://free.vice.com/en_us
+    inLanguage: en_us
+  - url: https://motherboard.vice.com/en_us
+    inLanguage: en_us
+  - url: https://www.cnn.com
+    inLanguage: en_us
+  - url: https://edition.cnn.com
+    inLanguage: en_us
+  - url: https://www.huffingtonpost.com
+    inLanguage: en_us
+...
